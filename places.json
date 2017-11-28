@@ -21,7 +21,7 @@
         "followers": 111,
         "following": 155
       },
-      "type": "tours"
+      "type": "road"
     },
     {
       "title": "Lake",
@@ -43,7 +43,7 @@
         "followers": 10,
         "following": 15
       },
-      "type": "fishing"
+      "type": "lake"
     },
     {
       "title": "Vineyards",
@@ -65,7 +65,7 @@
         "followers": 222,
         "following": 125
       },
-      "type": "hotel"
+      "type": "vineyards"
     }
   ]
 }
