@@ -21,7 +21,7 @@
         "followers": 111,
         "following": 155
       },
-      "type": "road"
+      "type": "roads"
     },
     {
       "title": "Lake",
@@ -43,7 +43,7 @@
         "followers": 10,
         "following": 15
       },
-      "type": "lake"
+      "type": "lakes"
     },
     {
       "title": "Vineyards",
