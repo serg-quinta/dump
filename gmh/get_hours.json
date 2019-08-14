@@ -1,0 +1,75 @@
+{
+  "services": [
+    {
+      "type": "redmine",
+      "id": 7,
+      "title": "Martin Schoel",
+      "error": "Your service URL is not correct"
+    },
+    {
+      "type": "redmine",
+      "id": 12,
+      "title": "SoftFormance",
+      "hours": 23.47,
+      "tasks": 11,
+      "entries": 15
+    }
+  ],
+  "calendar": [
+    {
+      "class": "day prev"
+    },
+    {
+      "class": "day prev"
+    },
+    {
+      "class": "day prev"
+    },
+    {
+      "id": "cal-day1",
+      "class": "day",
+      "title": "1"
+    },
+    {
+      "id": "cal-day2",
+      "class": "day",
+      "title": "2"
+    },
+    {
+      "id": "cal-day3",
+      "class": "day",
+      "title": "3"
+    },
+    {
+      "id": "cal-day4",
+      "class": "day",
+      "title": "4"
+    },
+    {
+      "id": "cal-day5",
+      "class": "day one",
+      "title": "5"
+    },
+    {
+      "id": "cal-day6",
+      "class": "day four",
+      "title": "6"
+    }
+  ],
+  "total": "23.47",
+  "time_entries": [
+    {
+      "class": "entry day13",
+      "date": "Aug 13, 2019",
+      "person": "Serhiy Valchuk",
+      "service-type": "redmine",
+      "service-name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/56",
+      "project": "Opesta",
+      "issue_URL": "https://projects.softformance.com//issues/11586",
+      "issue": "issue #11586",
+      "desc": "Added new variants of subscriber page",
+      "hours": "5.5"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "years": [
+    {
+      "id":"2019",
+      "title":"2019",
+      "selected": "True"
+    },
+    {
+      "id":"2018",
+      "title":"2018",
+      "selected": "False"
+    },
+    {
+      "id":"2017",
+      "title":"2017",
+      "selected": "False"
+    },
+    {
+      "id":"2016",
+      "title":"2016",
+      "selected": "False"
+    },
+    {
+      "id":"2015",
+      "title":"2015",
+      "selected": "False"
+    },
+    {
+      "id":"2014",
+      "title":"2014",
+      "selected": "False"
+    },
+    {
+      "id":"2013",
+      "title":"2013",
+      "selected": "False"
+    },
+    {
+      "id":"2012",
+      "title":"2012",
+      "selected": "False"
+    },
+    {
+      "id":"2011",
+      "title":"2011",
+      "selected": "False"
+    },
+    {
+      "id":"2010",
+      "title":"2010",
+      "selected": "False"
+    }
+  ],
+  "months": [
+    {
+      "id":"01",
+      "title":"January",
+      "selected": "False"
+    },
+    {
+      "id":"02",
+      "title":"February",
+      "selected": "False"
+    },
+    {
+      "id":"03",
+      "title":"March",
+      "selected": "False"
+    },
+    {
+      "id":"04",
+      "title":"April",
+      "selected": "False"
+    },
+    {
+      "id":"05",
+      "title":"May",
+      "selected": "False"
+    },
+    {
+      "id":"06",
+      "title":"June",
+      "selected": "False"
+    },
+    {
+      "id":"07",
+      "title":"July",
+      "selected": "False"
+    },
+    {
+      "id":"08",
+      "title":"August",
+      "selected": "True"
+    },
+    {
+      "id":"09",
+      "title":"September",
+      "selected": "False"
+    },
+    {
+      "id":"10",
+      "title":"October",
+      "selected": "False"
+    },
+    {
+      "id":"11",
+      "title":"November",
+      "selected": "False"},
+    {
+      "id":"12",
+      "title":"December",
+      "selected": "False"
+    }
+  ],
+  "services": [
+    {
+      "title":"redmine"
+    },
+    {
+      "title":"jira"
+    }
+  ]
+}
