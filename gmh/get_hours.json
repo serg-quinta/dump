@@ -26,50 +26,287 @@
       "class": "day prev"
     },
     {
-      "id": "cal-day1",
+      "id": "day1",
       "class": "day",
       "title": "1"
     },
     {
-      "id": "cal-day2",
+      "id": "day2",
       "class": "day",
       "title": "2"
     },
     {
-      "id": "cal-day3",
+      "id": "day3",
       "class": "day",
       "title": "3"
     },
     {
-      "id": "cal-day4",
+      "id": "day4",
       "class": "day",
       "title": "4"
     },
     {
-      "id": "cal-day5",
+      "id": "day5",
       "class": "day one",
       "title": "5"
     },
     {
-      "id": "cal-day6",
+      "id": "day6",
       "class": "day four",
       "title": "6"
+    },
+    {
+      "id": "day7",
+      "class": "day",
+      "title": "7"
+    },
+    {
+      "id": "day8",
+      "class": "day one",
+      "title": "8"
+    },
+    {
+      "id": "day9",
+      "class": "day two",
+      "title": "9"
+    },
+    {
+      "id": "day10",
+      "class": "day",
+      "title": "10"
+    },
+    {
+      "id": "day11",
+      "class": "day three",
+      "title": "11"
+    },
+    {
+      "id": "day12",
+      "class": "day five",
+      "title": "12"
+    },
+    {
+      "id": "day13",
+      "class": "day eight",
+      "title": "13"
+    },
+    {
+      "id": "day14",
+      "class": "day",
+      "title": "14"
     }
   ],
   "total": "23.47",
   "time_entries": [
     {
-      "class": "entry day13",
+      "id": "0001",
+      "class": "day5",
+      "date": "Aug 05, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/1",
+      "project": "Lab",
+      "issue_URL": "https://projects.softformance.com//issues/7673",
+      "issue": "issue #7673 ",
+      "desc": "Project weekly call",
+      "hours": "0.75"
+    },
+    {
+      "id": "0002",
+      "class": "day6",
+      "date": "Aug 06, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/85",
+      "project": "Lading",
+      "issue_URL": "https://projects.softformance.com//issues/11531",
+      "issue": "issue #11531",
+      "desc": "Checked site structure, started checking UI issues",
+      "hours": "2.25"
+    },
+    {
+      "id": "0003",
+      "class": "day6",
+      "date": "Aug 06, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/1",
+      "project": "Lab",
+      "issue_URL": "https://projects.softformance.com//issues/2280",
+      "issue": "issue #2280",
+      "desc": "Project weekly call",
+      "hours": "0.5"
+    },
+    {
+      "id": "0004",
+      "class": "day6",
+      "date": "Aug 06, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/85",
+      "project": "Lading",
+      "issue_URL": "https://projects.softformance.com//issues/11528",
+      "issue": "issue #11528",
+      "desc": "Provided Requirements for designers",
+      "hours": "1.0"
+    },
+    {
+      "id": "0005",
+      "class": "day8",
+      "date": "Aug 08, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/85",
+      "project": "Lading",
+      "issue_URL": "https://projects.softformance.com//issues/11531",
+      "issue": "issue #11531",
+      "desc": "Створив файл з оптимізаціями",
+      "hours": "0.75"
+    },
+    {
+      "id": "0006",
+      "class": "day8",
+      "date": "Aug 08, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/91",
+      "project": "BeautySalon",
+      "issue_URL": "https://projects.softformance.com//issues/11600",
+      "issue": "issue #11600",
+      "desc": "Discussed about issue with Anastasia, created task and added screenshots",
+      "hours": "0.67"
+    },
+    {
+      "id": "0007",
+      "class": "day9",
+      "date": "Aug 09, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/56",
+      "project": "Opesta",
+      "issue_URL": "https://projects.softformance.com//issues/11585",
+      "issue": "issue #11585",
+      "desc": "Updated local instance, checked videos, had call with Andrew about implementation details",
+      "hours": "1.83"
+    },
+    {
+      "id": "0008",
+      "class": "day11",
+      "date": "Aug 11, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/56",
+      "project": "Opesta",
+      "issue_URL": "https://projects.softformance.com//issues/11585",
+      "issue": "issue #11585",
+      "desc": "added card item for integrations page	",
+      "hours": "3.00"
+    },
+    {
+      "id": "0009",
+      "class": "day12",
+      "date": "Aug 12, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/91",
+      "project": "BeautySalon",
+      "issue_URL": "https://projects.softformance.com//issues/11600",
+      "issue": "issue #11600",
+      "desc": "updated upload photos and multiple choice fields styles",
+      "hours": "1.5"
+    },
+    {
+      "id": "0010",
+      "class": "day12",
+      "date": "Aug 12, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/56",
+      "project": "Opesta",
+      "issue_URL": "https://projects.softformance.com//issues/11585",
+      "issue": "issue #11585",
+      "desc": "Added widget (horizontal card)",
+      "hours": "3.5"
+    },
+    {
+      "id": "0011",
+      "class": "day13",
       "date": "Aug 13, 2019",
       "person": "Serhiy Valchuk",
-      "service-type": "redmine",
-      "service-name": "SoftFormance",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
       "project_URL": "https://projects.softformance.com//projects/56",
       "project": "Opesta",
       "issue_URL": "https://projects.softformance.com//issues/11586",
       "issue": "issue #11586",
       "desc": "Added new variants of subscriber page",
       "hours": "5.5"
+    },
+    {
+      "id": "0012",
+      "class": "day13",
+      "date": "Aug 13, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/1",
+      "project": "Lab",
+      "issue_URL": "https://projects.softformance.com//issues/11632",
+      "issue": "issue #11632",
+      "desc": "updated upload photos and multiple choice fields styles",
+      "hours": "0.42"
+    },
+    {
+      "id": "0013",
+      "class": "day13",
+      "date": "Aug 13, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/1",
+      "project": "Lab",
+      "issue_URL": "https://projects.softformance.com//issues/11631",
+      "issue": "issue #11631",
+      "desc": "Створив файл з оптимізаціями",
+      "hours": "0.6"
+    },
+    {
+      "id": "0014",
+      "class": "day13",
+      "date": "Aug 13, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/1",
+      "project": "Lab",
+      "issue_URL": "https://projects.softformance.com//issues/11630",
+      "issue": "issue #11630",
+      "desc": "provided requirements for designers",
+      "hours": "0.2"
+    },
+    {
+      "id": "0009",
+      "class": "day12",
+      "date": "Aug 12, 2019",
+      "person": "Serhiy Valchuk",
+      "service_type": "redmine",
+      "service_name": "SoftFormance",
+      "project_URL": "https://projects.softformance.com//projects/91",
+      "project": "BeautySalon",
+      "issue_URL": "https://projects.softformance.com//issues/11532 ",
+      "issue": "issue #11532 ",
+      "desc": "updated select sort option styles	",
+      "hours": "1"
     }
   ]
 }
