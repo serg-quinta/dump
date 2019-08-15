@@ -99,7 +99,6 @@
   "total": "23.47",
   "time_entries": [
     {
-      "id": "0015",
       "class": "day13",
       "date": "Aug 13, 2019",
       "person": "Serhiy Valchuk",
@@ -113,7 +112,6 @@
       "hours": "1"
     },
     {
-      "id": "0014",
       "class": "day13",
       "date": "Aug 13, 2019",
       "person": "Serhiy Valchuk",
@@ -127,7 +125,6 @@
       "hours": "0.2"
     },
     {
-      "id": "0013",
       "class": "day13",
       "date": "Aug 13, 2019",
       "person": "Serhiy Valchuk",
@@ -141,7 +138,6 @@
       "hours": "0.6"
     },
     {
-      "id": "0012",
       "class": "day13",
       "date": "Aug 13, 2019",
       "person": "Serhiy Valchuk",
@@ -155,7 +151,6 @@
       "hours": "0.42"
     },
     {
-      "id": "0011",
       "class": "day13",
       "date": "Aug 13, 2019",
       "person": "Serhiy Valchuk",
@@ -169,7 +164,6 @@
       "hours": "5.5"
     },
     {
-      "id": "0010",
       "class": "day12",
       "date": "Aug 12, 2019",
       "person": "Serhiy Valchuk",
@@ -183,7 +177,6 @@
       "hours": "3.5"
     },
     {
-      "id": "0009",
       "class": "day12",
       "date": "Aug 12, 2019",
       "person": "Serhiy Valchuk",
@@ -197,7 +190,6 @@
       "hours": "1.5"
     },
     {
-      "id": "0008",
       "class": "day11",
       "date": "Aug 11, 2019",
       "person": "Serhiy Valchuk",
@@ -211,7 +203,6 @@
       "hours": "3.00"
     },
     {
-      "id": "0007",
       "class": "day9",
       "date": "Aug 09, 2019",
       "person": "Serhiy Valchuk",
@@ -225,7 +216,6 @@
       "hours": "1.83"
     },
     {
-      "id": "0006",
       "class": "day8",
       "date": "Aug 08, 2019",
       "person": "Serhiy Valchuk",
@@ -239,7 +229,6 @@
       "hours": "0.67"
     },
     {
-      "id": "0005",
       "class": "day8",
       "date": "Aug 08, 2019",
       "person": "Serhiy Valchuk",
@@ -253,7 +242,6 @@
       "hours": "0.75"
     },
     {
-      "id": "0004",
       "class": "day6",
       "date": "Aug 06, 2019",
       "person": "Serhiy Valchuk",
@@ -267,7 +255,6 @@
       "hours": "1.0"
     },
     {
-      "id": "0003",
       "class": "day6",
       "date": "Aug 06, 2019",
       "person": "Serhiy Valchuk",
@@ -281,7 +268,6 @@
       "hours": "0.5"
     },
     {
-      "id": "0002",
       "class": "day6",
       "date": "Aug 06, 2019",
       "person": "Serhiy Valchuk",
@@ -295,7 +281,6 @@
       "hours": "2.25"
     },
     {
-      "id": "0001",
       "class": "day5",
       "date": "Aug 05, 2019",
       "person": "Serhiy Valchuk",
