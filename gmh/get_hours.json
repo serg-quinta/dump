@@ -187,7 +187,7 @@
   "total": "23.47",
   "time_entries": [
     {
-      "class": "day13",
+      "class": "entry day13",
       "date": "Aug 13, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -200,7 +200,7 @@
       "hours": "1"
     },
     {
-      "class": "day13",
+      "class": "entry day13",
       "date": "Aug 13, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -213,7 +213,7 @@
       "hours": "0.2"
     },
     {
-      "class": "day13",
+      "class": "entry day13",
       "date": "Aug 13, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -226,7 +226,7 @@
       "hours": "0.6"
     },
     {
-      "class": "day13",
+      "class": "entry day13",
       "date": "Aug 13, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -239,7 +239,7 @@
       "hours": "0.42"
     },
     {
-      "class": "day13",
+      "class": "entry day13",
       "date": "Aug 13, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -252,7 +252,7 @@
       "hours": "5.5"
     },
     {
-      "class": "day12",
+      "class": "entry day12",
       "date": "Aug 12, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -265,7 +265,7 @@
       "hours": "3.5"
     },
     {
-      "class": "day12",
+      "class": "entry day12",
       "date": "Aug 12, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -278,7 +278,7 @@
       "hours": "1.5"
     },
     {
-      "class": "day11",
+      "class": "entry day11",
       "date": "Aug 11, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -291,7 +291,7 @@
       "hours": "3.00"
     },
     {
-      "class": "day9",
+      "class": "entry day9",
       "date": "Aug 09, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -304,7 +304,7 @@
       "hours": "1.83"
     },
     {
-      "class": "day8",
+      "class": "entry day8",
       "date": "Aug 08, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -317,7 +317,7 @@
       "hours": "0.67"
     },
     {
-      "class": "day8",
+      "class": "entry day8",
       "date": "Aug 08, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -330,7 +330,7 @@
       "hours": "0.75"
     },
     {
-      "class": "day6",
+      "class": "entry day6",
       "date": "Aug 06, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -343,7 +343,7 @@
       "hours": "1.0"
     },
     {
-      "class": "day6",
+      "class": "entry day6",
       "date": "Aug 06, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -356,7 +356,7 @@
       "hours": "0.5"
     },
     {
-      "class": "day6",
+      "class": "entry day6",
       "date": "Aug 06, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
@@ -369,7 +369,7 @@
       "hours": "2.25"
     },
     {
-      "class": "day5",
+      "class": "entry day5",
       "date": "Aug 05, 2019",
       "person": "Serhiy Valchuk",
       "service_type": "redmine",
